@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="admob_app_id">ca-app-pub-6907333639667854~1088047001</string>
+    <string name="admob_banner_ad"></string>
+</resources>
